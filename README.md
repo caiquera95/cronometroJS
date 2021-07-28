@@ -14,7 +14,7 @@
 
 ## 🚀 Tecnologias
 
-- React JS, (https://pt-br.reactjs.org),
+- React JS (https://pt-br.reactjs.org),
 - CSS 
 - JavaScript (https://tableless.github.io/iniciantes/manual/js/)
 
